@@ -1,0 +1,9 @@
+date,category,task,outcome,promoted_to
+2026-10-01,architecture,create 5-skill system,success,L2 (LEARNINGS.md)
+2026-10-01,architecture,P0 security fix (audit log + ADL immutable),success,L3 (ADL_GUARD.md)
+2026-10-01,correction,user: file change requires approval per note L1 (AGENTS.md hard rules),success,L2
+2026-10-01,meta-loop,agent_loop.sh ran 6-stage loop,success,-
+2026-10-01,correction,user: stop over-asking to system prompts,success,L1
+2026-10-02,architecture,register for hackathon track,success,L2 (HACKATHON.md)
+2026-10-02,failure,initial REFLEXION.md append permission 0444,partial,VBR retry
+2026-10-02,correction,user: don't push IT ops to user,success,L2
